@@ -9,7 +9,8 @@ class User{
     private:
     string name,password;
     int age;
-    
+    stack<string> softwareList;
+
     public:
     
     User(string n,string p,int a){
@@ -17,6 +18,7 @@ class User{
         this->name = n;
         this->password = p;
         this->age = a;
+        this->softwareList;
             
     };
     
@@ -35,6 +37,9 @@ class User{
         return age;
     };
     
+    stack<string> getSoftwareList(){
+        return softwareList;
+    }
 };
 
 class Child: public User{

@@ -1,1 +1,42 @@
-juego,minecraft,mojan,8;pedro,juan,diego;20000,genero
+juego,Call of Duty,Activision,18;Jose,Pedro;60,FPS
+juego,Counter-Strike,Valve,18;Esteban,Ana;40,FPS
+juego,World of Warcraft,Blizzard,12;Juan,Ana;55,MMO
+juego,Final Fantasy XIV,Square Enix,16;Sofia,Carlos;50,MMO
+juego,Minecraft,Mojang,8;Luis,Andres;30,Puzzle
+juego,Tetris,EA Sports,3;Maria,Carlos;10,Puzzle
+juego,The Elder Scrolls V: Skyrim,Bethesda,17;Juan,Laura;45,RPG
+juego,Dark Souls,FromSoftware,16;Pedro,Valentina;40,RPG
+juego,Solitaire,Solitaire,3;Sofia,Mateo;5,Puzzle
+juego,The Secret of Monkey Island,Lucasfilm Games,12;Luis,Ana;20,Aventura Grafica
+juego,Day of the Tentacle,Double Fine Productions,12;Maria,Andres;25,Aventura Grafica
+juego,Super Mario Bros,Nintendo,6;Andres,Mateo;20,Plataforma
+juego,Donkey Kong Country,Rare,6;Carlos,Diego;25,Plataforma
+juego,FIFA 22,EA Sports,3;Juan,Diego;40,Deportes
+juego,NBA 2K22,2K Sports,3;Ana,Sofia;45,Deportes
+juego,The Sims 4,Electronic Arts,12;Sofia,Laura;60,Simulacion
+juego,Stardew Valley,ConcernedApe,7;Maria,Ana;30,Simulacion
+juego,StarCraft II,Blizzard Entertainment,12;Carlos,Andres;55,Estrategia en Tiempo Real (RTS)
+juego,Total War: Three Kingdoms,SEGA,16;Andres,Diego;60,Estrategia en Tiempo Real (RTS)
+juego,Metal Gear Solid,Konami,18;Luis,Maria;50,Sigilo
+juego,Hitman 3,IO Interactive,18;Juan,Mateo;45,Sigilo
+ofimatica,Microsoft Office,Microsoft,18;Pedro,Ana,Carlos;199,1
+ofimatica,LibreOffice,The Document Foundation,18;Juan,Laura,Sofia;0,12
+ofimatica,Google Workspace,Google,19;Diego,Valentina,Mateo;99,7
+ofimatica,WPS Office,Kingsoft,18;Esteban,Maria,Andres;79,5
+ofimatica,Adobe Acrobat,Adobe,18;Luis,Camila,Isabel;299,60
+produccion,Adobe Premiere,Adobe,18;Pedro,Ana,Carlos;299,video
+produccion,AutoCAD,Autodesk,18;Juan,Laura,Sofia;499,fotos
+produccion,Unity,Unity Technologies,18;Diego,Valentina,Mateo;0,streaming
+produccion,Final Cut Pro,Apple,18;Esteban,Maria,Andres;299,musica
+navegador,Google Chrome,Google,10;Pedro,Ana,Carlos;0,Navegador web
+navegador,Mozilla Firefox, Mozilla,10;Juan,Laura,Sofia;0,Navegador web
+seguridad,SoftwareSeguridad1,Desarrollador1,12;Jose,pedro,ana;0,Ransomware
+seguridad,SoftwareSeguridad2,Desarrollador2,16;Juan,maria,carlos;0,Spyware
+seguridad,SoftwareSeguridad3,Desarrollador3,18;Pedro,laura,andres;0,Botnets
+seguridad,SoftwareSeguridad4,Desarrollador4,14;Esteban,sofia,luis;0,Rootkits
+seguridad,SoftwareSeguridad5,Desarrollador5,10;Diego,valentina,camila;0,Gusanos
+seguridad,SoftwareSeguridad6,Desarrollador6,13;Mateo,andres,laura;0,Troyanos
+social,Facebook,Meta,13;Pedro,Ana,Carlos;0,Red social
+social,Tinder,Tinder,18+;Juan,Sofia,Maria;0,Aplicación de citas
+
+
