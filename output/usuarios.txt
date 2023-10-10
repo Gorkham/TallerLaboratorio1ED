@@ -1,0 +1,15 @@
+admin;Jose;12345;30;admin@admin.cl;true
+normal;Pedro;pedro123;20;pedro@gmail.com
+normal;Esteban;peppa123;45;esteban@gmail.com
+normal;Ana;ana123;25;ana@gmail.com
+normal;Juan;juan123;22;juan@gmail.com
+normal;Sofia;sofia123;19;sofia@gmail.com
+normal;Luis;luis123;28;luis@gmail.com
+normal;Maria;maria123;33;maria@gmail.com
+normal;Carlos;carlos123;29;carlos@gmail.com
+normal;Laura;laura123;26;laura@gmail.com
+normal;Andres;andres123;24;andres@gmail.com
+nino;Camila;camila123;10
+nino;Mateo;mateo123;7
+nino;Valentina;valentina123;6
+nino;Diego;diego123;9

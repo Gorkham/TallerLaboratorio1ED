@@ -1,0 +1,1 @@
+juego,minecraft,mojan,8;pedro,juan,diego;20000,genero
